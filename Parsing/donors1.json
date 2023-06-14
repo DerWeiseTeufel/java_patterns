@@ -1,0 +1,33 @@
+[ {
+  "ID" : 1,
+  "med_file" : "12000658909",
+  "name" : "John",
+  "last_name" : "Ronson",
+  "middle_name" : "Andrew",
+  "bday" : "09/02/2000",
+  "passport" : "123556",
+  "passport_pub" : "19/06/2020",
+  "dep_code" : "685-432",
+  "Resus" : true,
+  "Blood_group" : 3,
+  "Region" : 65,
+  "my_donations" : [ {
+    "date" : "10/00/2022",
+    "amount" : 1.0,
+    "blood_type" : 3,
+    "resus" : true
+  } ],
+  "past_illness" : [ {
+    "Severity" : 2,
+    "ID" : 1,
+    "name" : "chickenpox",
+    "rarity" : 0.001,
+    "contras" : [ "Headache", "Fatigue", "dizziness" ]
+  }, {
+    "Severity" : 1,
+    "ID" : 2,
+    "name" : "Flu",
+    "rarity" : 0.01,
+    "contras" : [ "Headache", "Vomit", "High temperature" ]
+  } ]
+} ]
